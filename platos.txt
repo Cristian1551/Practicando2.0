@@ -1,12 +1,3 @@
-•	Arroz con camarones
-•	Mofongo clásico
-•	Yuca con Chicharrón
-•	Costillitas a la BBQ
-  Frito con salami 
-  Frito con queso
-  Quipe 
-  Bola de yuca 
-  Empanada
-  Sándwich
-  Tostada 
-
+nombre = input("Digite su nombre: ")
+comidafv = input("Digite su comida favorita: ")
+print(f"su nombre es {nombre}, y su comida favorita es {comidafv})
