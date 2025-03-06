@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 class TiendaHotWheels:
     def __init__(self, root):
         self.root = root
-        self.root.title(" Tienda de Hot Wheels")
+        self.root.title(" Tienda de Hot Wheele")
         self.root.geometry("600x500")
         self.root.configure(bg="#222")  
 
